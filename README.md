@@ -1,1 +1,1 @@
-read me!
+These functions are used for processing block copolymers with some randomness. Right now, I'm just putting my post-processing code through here. It takes in an embedding.csv file, which is the output of some molecular dynamics code I have. 
